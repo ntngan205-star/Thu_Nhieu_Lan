@@ -1,0 +1,7 @@
+D:\mon thay uy\Quán lý bán thuốc\obj\Debug\QuanLyBanThuoc.csproj.AssemblyReference.cache
+D:\mon thay uy\Quán lý bán thuốc\obj\Debug\Quán_lý_bán_thuốc.frmThuoc.resources
+D:\mon thay uy\Quán lý bán thuốc\obj\Debug\Quán_lý_bán_thuốc.frmlogin.resources
+D:\mon thay uy\Quán lý bán thuốc\obj\Debug\Quán_lý_bán_thuốc.frmmain.resources
+D:\mon thay uy\Quán lý bán thuốc\obj\Debug\Quán_lý_bán_thuốc.Properties.Resources.resources
+D:\mon thay uy\Quán lý bán thuốc\obj\Debug\QuanLyBanThuoc.csproj.GenerateResource.cache
+D:\mon thay uy\Quán lý bán thuốc\obj\Debug\QuanLyBanThuoc.csproj.CoreCompileInputs.cache
